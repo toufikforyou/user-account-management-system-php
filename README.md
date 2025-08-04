@@ -1,6 +1,6 @@
 # User Account Management System
 
-This is a user account management system built with PHP. This project provides the backend infrastructure for various services offered by Sopnolikhi.
+This is a user account management system built with PHP. This project provides the backend infrastructure for various services offered by MH TOUFIK.
 
 ## Features
 * **Authentication:** Secure user authentication and authorization.
